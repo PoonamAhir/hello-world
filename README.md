@@ -1,6 +1,4 @@
 # hello-world
-creating first repository
+# creating first repository
 
-Hello,
-
-Poonam here, Thanks for visiting...
+print("hello, world")
